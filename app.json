@@ -1,15 +1,15 @@
 {
     "name": "File Store Bot",
-    "description": "A Telegram Files Store Bot to protect your Files in Pyrogram by @VJ_Botz",
+    "description": "A Telegram Files Store Bot to protect your Files in Pyrogram by @Stubborn1223",
     "keywords": [
         "telegram",
         "files",
         "store",
         "bot"
     ],
-    "repository": "https://github.com/VJBots/File-Store-Bot-With-Url-Shortner",
-    "website": "https://telegram.dog/VJ_Botz",
-    "success_url": "https://t.me/VJ_Bot_Disscussion",
+    "repository": "https://github.com/Rohanthakur360/File-Store-Bot-With-Url-Shortner",
+    "website": "https://t.me/Stubborn_bots_support",
+    "success_url": "https://t.me/Stubborn_bots_support",
     "logo": "https://telegra.ph/file/b39906f572822b3ab82c8.jpg",
     "env": {
         "API_ID": {
